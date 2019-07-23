@@ -11,7 +11,7 @@ BenJamin Blue，男，IEEE Fellow，ACM，CCF会员，现京南理工大学计�
       <p><b>出生地：新疆乌鲁木齐</b></p>
     </td>
     <td width="25%">
-      <img src="https://i.loli.net/2019/07/23/5d3718a77fd3079188.jpg" width="100%">      % 插入证件照代码
+      <img src="https://i.loli.net/2019/07/23/5d3718a77fd3079188.jpg" width="100%"> 
     </td>
   </tr>
 </table>
