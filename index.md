@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 个人信息  
+BenJamin Blue，男，IEEE Fellow，ACM，CCF会员，现京南理工大学计算机科学与技术学院研究员兼光圈科技（中国）有限公司南京研究所软件研发部首席架构师，论文被SCI检索收录84篇，被EI检索收录322篇，被ISTP检索收录159篇，著作2部。获国家/国际级奖43项。荣获江苏省教学成果一等奖等省级教学成果奖5项、京南理工大学教学成果特等奖1项、一等奖5项。荣获京南理工大学优秀教师、计算机科学与工程学院优秀青年教师等荣誉。
+### 中文名:伍子奇  
+### 最高学历：博士，2014-2019就读于南京大学，导师周智华  
+### 第一学历：2010-2014就读于东北工学院，辅导员柴天右院士  
+### 出生日期：1994-4-1  
+### 出生地：新疆乌鲁木齐  
 
-You can use the [editor on GitHub](https://github.com/BenJaminB1ue/BenJaminBlue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BenJaminB1ue/BenJaminBlue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 研究方向  
+深度强化学习、网络信息安全、脑机接口、无人驾驶
